@@ -1,4 +1,4 @@
-# ❚█══█❚FIT-CONNECT-a-gym-website
+# ❚█══█❚FITNEED-a-gym-website
 
 This website is built using only HTML, CSS, and JS. This project mainly focused on **CSS Design System** to make a website optimized and scalable.
 
@@ -19,4 +19,4 @@ Here are the main benefits of using a design system for CSS:
 ## Project View
 To see a live preview of a website, click on the below link:
 
-[**Click here**](https://nitesh-18.github.io/FIT-CONNECT/)
+[**Click here**](https://al-basit.github.io/FITNEED-a-gym-website/)
