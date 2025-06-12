@@ -1,0 +1,1 @@
+NodeJs, Python-Flask, MongoDb, PostgreSQL, Kafka, Clickhouse, Celery, Redis, Angular, Elasticsearch
